@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify that login failed when leaving Email field</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3ab5c1b2-ed1c-45fc-894b-44072160b9fd</testCaseGuid>
+</TestCaseEntity>
